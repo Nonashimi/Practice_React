@@ -1,0 +1,8 @@
+.myInt{
+    border: 1px solid brown;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 7px;
+    width:90%;
+    margin-bottom: 10px;
+}

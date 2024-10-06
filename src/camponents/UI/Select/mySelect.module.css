@@ -1,0 +1,12 @@
+.mySel{
+    padding: 5px 15px;
+    outline: none;
+    border: none;
+    margin: 10px 0;
+    cursor: pointer;
+    display: flex;
+}
+.option{
+    outline: none;
+    border: none;
+}

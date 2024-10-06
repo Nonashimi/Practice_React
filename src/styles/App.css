@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.App{
+    width: 880px;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 12px;
+}
+

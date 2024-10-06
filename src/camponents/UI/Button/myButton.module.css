@@ -1,0 +1,14 @@
+.MyBtn{
+    background-color: brown;
+    color: #fff;
+    padding: 7px 15px;
+    cursor: pointer;
+    transition: all .3s;
+    border: none;
+    display: block;
+    border-radius: 7px;
+}
+.MyBtn:hover{
+    background-color: rgb(207, 55, 55);
+}
+
